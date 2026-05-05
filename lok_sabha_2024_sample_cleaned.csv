@@ -1,0 +1,7 @@
+state,constituency,candidate,party,votes,position,gender,age,total_votes_constituency,vote_share_%,winner,margin
+West Bengal,Kolkata North,Sudip Bandyopadhyay,AITC,454000,1,M,74,972000,46.71,True,0
+West Bengal,Kolkata North,Rahul Sinha,BJP,398000,2,M,57,972000,40.95,False,56000
+West Bengal,Kolkata North,Md Salim,CPI(M),120000,3,M,65,972000,12.35,False,334000
+West Bengal,Kolkata South,Mala Roy,AITC,512000,1,F,65,1017000,50.34,True,0
+West Bengal,Kolkata South,Chandra Kumar Bose,BJP,410000,2,M,45,1017000,40.31,False,102000
+West Bengal,Kolkata South,Riju Dutta,INC,95000,3,M,38,1017000,9.34,False,417000
